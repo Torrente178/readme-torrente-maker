@@ -11,7 +11,7 @@ import {
 
 const features = [
   {
-    name: "Lightening fast Profile Creation",
+    name: "Prueba 1",
     description:
       "Create your Profile ReadMe in just few clicks ! On an average, it takes less than one minute to create a perfect Profile ReadMe using GPRM",
     icon: LightningBoltIcon,
@@ -23,7 +23,7 @@ const features = [
     icon: GlobeAltIcon,
   },
   {
-    name: "Flex Your GitHub Stats",
+    name: "Prueba 3",
     description:
       "Be Honest, everyone loves to flex their achievements. With tools such as ReadMe Stats, Most Used Languages, Streak Stats you can show your achievements.",
     icon: ChartBarIcon,
@@ -35,7 +35,7 @@ const features = [
     icon: DesktopComputerIcon,
   },
   {
-    name: "Visitor Counter",
+    name: "Pruwba 5",
     description:
       "With the use of Visitors Counter you can see how many people viewed your profile, this gives you an idea about how popular you are on GitHub.",
     icon: UserGroupIcon,
